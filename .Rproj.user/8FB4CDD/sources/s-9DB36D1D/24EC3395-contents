@@ -1,0 +1,15 @@
+---
+title: "Changes to Website"
+author: "William White"
+date: 2021-05-19
+categories: ["R"]
+tags: ["R Markdown", "blogdown"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Using blogdown
+
+I've made the decision to use blogdown which uses R and R Markdown to generate website content.  I'm slowly making progress and I'm excited for the change.  I feel it provide a more natural workflow for my blog and hopefully will allow me to post more often.
